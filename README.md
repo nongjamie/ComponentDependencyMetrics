@@ -8,7 +8,7 @@
 
 ## Result:
 
-![alt text](https://github.com/nongjamie/ComponentDependencyMetrics/blob/master/graph/Screen%20Shot%202561-11-12%20at%2016.19.25.png)
+![alt text](https://github.com/nongjamie/ComponentDependencyMetrics/blob/master/graph/Screen%20Shot%202561-11-12%20at%2021.54.37.png)
 
 
 Run R project and see graph(MacOS):
