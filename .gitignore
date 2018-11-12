@@ -4,3 +4,6 @@
 .settings
 .DS_Store
 Rplots.pdf
+.idea/
+out/
+*.iml
