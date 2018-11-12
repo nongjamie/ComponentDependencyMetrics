@@ -7,7 +7,7 @@
 - Wongsathorn Panichkurkul 5910545817
 
 Result:
-![alt text]()
+![alt text](https://github.com/nongjamie/ComponentDependencyMetrics/blob/master/Rplots.pdf)
 
 
 Run R project and see graph(MacOS):
