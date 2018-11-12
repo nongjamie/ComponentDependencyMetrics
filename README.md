@@ -1,8 +1,13 @@
 # ComponentDependencyMetrics
-> Credit ploykk
+
+## Members
+
+- Sathira Kittisukmongkol 5910545868
+
+- Wongsathorn Panichkurkul 5910545817
 
 Result:
-![alt text](https://github.com/dacharat/ComponentDependencyMetrics/blob/master/graph/Screen%20Shot%202561-11-11%20at%2014.45.09.png)
+![alt text]()
 
 
 Run R project and see graph(MacOS):
