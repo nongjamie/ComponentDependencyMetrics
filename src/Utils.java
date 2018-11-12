@@ -16,7 +16,7 @@ public class Utils {
 		printWriter.print("Instability,Abstractness\n");
 
 		try {
-			Files.walk(Paths.get("C:\\Users\\Mond\\workspace\\axis2-1.7.8")).forEach(file -> {
+			Files.walk(Paths.get("/Users/JamieSK/Downloads/axis2-1.7.8")).forEach(file -> {
 				File dir = new File(file.toString());
 				if (dir.isDirectory()) {
 					FileRead fr = new FileRead();

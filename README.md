@@ -6,7 +6,8 @@
 
 - Wongsathorn Panichkurkul 5910545817
 
-Result:
+## Result:
+
 ![alt text](https://github.com/nongjamie/ComponentDependencyMetrics/blob/master/graph/Screen%20Shot%202561-11-12%20at%2016.19.25.png)
 
 
